@@ -4,7 +4,6 @@ mainSections = ["post"]
 rssFullContent = true
 favicon = "static/favicon.png"
 
-
 [footer]
 since = 2020
 customText = ""
