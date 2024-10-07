@@ -16,3 +16,6 @@ hasCJKLanguage = false
 
 [pagination]
 pagerSize = 5
+
+[params]
+favicon = "favicon.png"
