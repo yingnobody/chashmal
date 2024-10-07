@@ -19,5 +19,5 @@ favicon = "/favicon.png"
 [pagination]
 pagerSize = 5
 
-#[params]
-#favicon = "favicon.png
+[params]
+favicon = "favicon.png"
