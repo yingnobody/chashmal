@@ -18,4 +18,4 @@ hasCJKLanguage = false
 pagerSize = 5
 
 [params]
-favicon = "favicon.png"
+favicon = "static/favicon.png"
