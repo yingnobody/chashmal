@@ -14,8 +14,10 @@ hasCJKLanguage = false
 # Change it to your Disqus shortname before using - disqus = add comments
 # disqusShortname = "hugo-theme-stack"
 
+favicon = "/favicon.png"
+
 [pagination]
 pagerSize = 5
 
-[params]
-favicon = "static/favicon.png"
+#[params]
+#favicon = "favicon.png
